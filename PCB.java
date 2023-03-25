@@ -1,8 +1,4 @@
-/***
- * 
- * Roaa Alnader , Ebtisam Alsomali ,Meral Homoud
- * 
- ***/
+
 
 public class PCB {
 	static int count = 0; // counts
